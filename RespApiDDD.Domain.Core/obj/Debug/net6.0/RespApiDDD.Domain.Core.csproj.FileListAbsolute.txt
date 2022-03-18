@@ -1,0 +1,15 @@
+C:\Users\Guilherme\Documents\GitHub\RespApiDDD\RespApiDDD.Domain.Core\bin\Debug\net6.0\RespApiDDD.Domain.Core.deps.json
+C:\Users\Guilherme\Documents\GitHub\RespApiDDD\RespApiDDD.Domain.Core\bin\Debug\net6.0\RespApiDDD.Domain.Core.dll
+C:\Users\Guilherme\Documents\GitHub\RespApiDDD\RespApiDDD.Domain.Core\bin\Debug\net6.0\RespApiDDD.Domain.Core.pdb
+C:\Users\Guilherme\Documents\GitHub\RespApiDDD\RespApiDDD.Domain.Core\bin\Debug\net6.0\RespApiDDD.Domain.dll
+C:\Users\Guilherme\Documents\GitHub\RespApiDDD\RespApiDDD.Domain.Core\bin\Debug\net6.0\RespApiDDD.Domain.pdb
+C:\Users\Guilherme\Documents\GitHub\RespApiDDD\RespApiDDD.Domain.Core\obj\Debug\net6.0\RespApiDDD.Domain.Core.csproj.AssemblyReference.cache
+C:\Users\Guilherme\Documents\GitHub\RespApiDDD\RespApiDDD.Domain.Core\obj\Debug\net6.0\RespApiDDD.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme\Documents\GitHub\RespApiDDD\RespApiDDD.Domain.Core\obj\Debug\net6.0\RespApiDDD.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\Guilherme\Documents\GitHub\RespApiDDD\RespApiDDD.Domain.Core\obj\Debug\net6.0\RespApiDDD.Domain.Core.AssemblyInfo.cs
+C:\Users\Guilherme\Documents\GitHub\RespApiDDD\RespApiDDD.Domain.Core\obj\Debug\net6.0\RespApiDDD.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Documents\GitHub\RespApiDDD\RespApiDDD.Domain.Core\obj\Debug\net6.0\RespApiDDD.Domain.Core.csproj.CopyComplete
+C:\Users\Guilherme\Documents\GitHub\RespApiDDD\RespApiDDD.Domain.Core\obj\Debug\net6.0\RespApiDDD.Domain.Core.dll
+C:\Users\Guilherme\Documents\GitHub\RespApiDDD\RespApiDDD.Domain.Core\obj\Debug\net6.0\refint\RespApiDDD.Domain.Core.dll
+C:\Users\Guilherme\Documents\GitHub\RespApiDDD\RespApiDDD.Domain.Core\obj\Debug\net6.0\RespApiDDD.Domain.Core.pdb
+C:\Users\Guilherme\Documents\GitHub\RespApiDDD\RespApiDDD.Domain.Core\obj\Debug\net6.0\ref\RespApiDDD.Domain.Core.dll

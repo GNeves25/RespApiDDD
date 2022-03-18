@@ -1,0 +1,17 @@
+C:\Users\Guilherme\Documents\GitHub\RespApiDDD\RespApiDDD.Application\bin\Debug\net6.0\RespApiDDD.Application.deps.json
+C:\Users\Guilherme\Documents\GitHub\RespApiDDD\RespApiDDD.Application\bin\Debug\net6.0\RespApiDDD.Application.dll
+C:\Users\Guilherme\Documents\GitHub\RespApiDDD\RespApiDDD.Application\bin\Debug\net6.0\RespApiDDD.Application.pdb
+C:\Users\Guilherme\Documents\GitHub\RespApiDDD\RespApiDDD.Application\obj\Debug\net6.0\RespApiDDD.Application.csproj.AssemblyReference.cache
+C:\Users\Guilherme\Documents\GitHub\RespApiDDD\RespApiDDD.Application\obj\Debug\net6.0\RespApiDDD.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme\Documents\GitHub\RespApiDDD\RespApiDDD.Application\obj\Debug\net6.0\RespApiDDD.Application.AssemblyInfoInputs.cache
+C:\Users\Guilherme\Documents\GitHub\RespApiDDD\RespApiDDD.Application\obj\Debug\net6.0\RespApiDDD.Application.AssemblyInfo.cs
+C:\Users\Guilherme\Documents\GitHub\RespApiDDD\RespApiDDD.Application\obj\Debug\net6.0\RespApiDDD.Application.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Documents\GitHub\RespApiDDD\RespApiDDD.Application\obj\Debug\net6.0\RespApiDDD.Application.dll
+C:\Users\Guilherme\Documents\GitHub\RespApiDDD\RespApiDDD.Application\obj\Debug\net6.0\refint\RespApiDDD.Application.dll
+C:\Users\Guilherme\Documents\GitHub\RespApiDDD\RespApiDDD.Application\obj\Debug\net6.0\RespApiDDD.Application.pdb
+C:\Users\Guilherme\Documents\GitHub\RespApiDDD\RespApiDDD.Application\obj\Debug\net6.0\ref\RespApiDDD.Application.dll
+C:\Users\Guilherme\Documents\GitHub\RespApiDDD\RespApiDDD.Application\bin\Debug\net6.0\RespApiDDD.Domain.Core.dll
+C:\Users\Guilherme\Documents\GitHub\RespApiDDD\RespApiDDD.Application\bin\Debug\net6.0\RespApiDDD.Domain.dll
+C:\Users\Guilherme\Documents\GitHub\RespApiDDD\RespApiDDD.Application\bin\Debug\net6.0\RespApiDDD.Domain.Core.pdb
+C:\Users\Guilherme\Documents\GitHub\RespApiDDD\RespApiDDD.Application\bin\Debug\net6.0\RespApiDDD.Domain.pdb
+C:\Users\Guilherme\Documents\GitHub\RespApiDDD\RespApiDDD.Application\obj\Debug\net6.0\RespApiDDD.Application.csproj.CopyComplete
